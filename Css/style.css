@@ -55,6 +55,7 @@ main {
   text-transform: uppercase;
   font-family: "Big Shoulders Display", cursive;
   letter-spacing: 1px;
+  font-size: 40px;
 }
 
 .box p {
